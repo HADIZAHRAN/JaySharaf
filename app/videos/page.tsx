@@ -65,14 +65,14 @@ const videosData = [
     id: 9,
     title: "Hana",
     category: "storytelling",
-    thumbnail: "/imgs/IMG-20250608-WA0029.jpg",
+    thumbnail: "/imgs/storytelling/1.jpg",
     videoUrl: "https://www.youtube.com/watch?v=BgFpsLT1cX4&feature=youtu.be",
   },
   {
     id: 10,
     title: "Elaina",
     category: "storytelling",
-    thumbnail: "/imgs/theater/IMG-20250608-WA0004.jpg",
+    thumbnail: "/imgs/storytelling/2.jpg",
     videoUrl: "https://www.youtube.com/watch?v=9FZmlIhRQfw",
   },
   {
